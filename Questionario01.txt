@@ -1,0 +1,16 @@
+01 - Defina os termos:
+    a: dados
+            l
+    b: campos
+    c: registro
+    d: arquivos
+
+    02 - O que é um SGBD e quais as suas funções?
+
+    03 - Explique a diferença entre Dados e Informações.
+
+        Dados refere-se ao bruto d
+
+    04 - O que são metadados?
+
+    05 - Por que o projeto de banco de dados é importante ?                           
